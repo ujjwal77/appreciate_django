@@ -1,0 +1,82 @@
+[
+  {
+    "employee_id": 111,
+    "employee_name": "Unnamed Employee",
+    "designation": "Unknown",
+    "department": "Design",
+    "salary": 10000,
+    "joining_date": "2024-01-01"
+  },
+  {
+    "employee_id": 12,
+    "employee_name": "John Doe",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "salary": 1200,
+    "joining_date": "2024-01-01"
+  },
+  {
+    "employee_id": 13,
+    "employee_name": "Jane Smith",
+    "designation": "Product Manager",
+    "department": "Product",
+    "salary": 15000,
+    "joining_date": "2024-02-01"
+  },
+  {
+    "employee_id": 14,
+    "employee_name": "Alice Johnson",
+    "designation": "UX Designer",
+    "department": "Design",
+    "salary": 11000,
+    "joining_date": "2024-03-01"
+  },
+  {
+    "employee_id": 15,
+    "employee_name": "Bob Brown",
+    "designation": "QA Tester",
+    "department": "Quality Assurance",
+    "salary": 9000,
+    "joining_date": "2024-04-01"
+  },
+  {
+    "employee_id": 16,
+    "employee_name": "Charlie Davis",
+    "designation": "DevOps Engineer",
+    "department": "IT",
+    "salary": 13000,
+    "joining_date": "2024-05-01"
+  },
+  {
+    "employee_id": 17,
+    "employee_name": "David Wilson",
+    "designation": "HR Manager",
+    "department": "Human Resources",
+    "salary": 14000,
+    "joining_date": "2024-06-01"
+  },
+  {
+    "employee_id": 18,
+    "employee_name": "Emma White",
+    "designation": "Marketing Manager",
+    "department": "Marketing",
+    "salary": 13000,
+    "joining_date": "2024-07-01"
+  },
+  {
+    "employee_id": 19,
+    "employee_name": "Frank Green",
+    "designation": "Sales Executive",
+    "department": "Sales",
+    "salary": 9500,
+    "joining_date": "2024-08-01"
+  },
+  {
+    "employee_id": 20,
+    "employee_name": "Grace Lee",
+    "designation": "Customer Support",
+    "department": "Support",
+    "salary": 8000,
+    "joining_date": "2024-09-01"
+  }
+]
